@@ -1,0 +1,21 @@
+{
+  "name": "easy-website",
+  "version": "0.0.1",
+  "description": "Design and build a website easily and quickly for anyone.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "eslint": "^7.11.0",
+    "eslint-config-prettier": "^6.13.0",
+    "eslint-plugin-prettier-vue": "^2.1.1",
+    "eslint-plugin-vue": "^7.1.0",
+    "prettier": "^2.1.2",
+    "vite": "^1.0.0-rc.1"
+  }
+}
